@@ -14,7 +14,7 @@ You can run `./timestamps` without any arguments and get timestamps in the forma
 
 There are two arguments you can use to control the behavior of the timestamps output:
 
-* `-format`: a format string to display the timestamp, refer to https://github.com/leekchan/timeutil#strftime as a reference
+* `-format`: a format string to display the timestamp, refer to https://github.com/cameronbroe/timeutil#strftime as a reference
 * `-rate`: a number in milliseconds on how often to print a timestamp
 
 # License
